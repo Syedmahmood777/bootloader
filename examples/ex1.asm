@@ -11,6 +11,6 @@ _start:
   int 0x80
 
   mov eax,1
-  mov ebx,101 
+  mov ebx,0x22
 
   int 0x80
